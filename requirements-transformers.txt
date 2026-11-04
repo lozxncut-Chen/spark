@@ -1,0 +1,15 @@
+torch==2.6.0
+numpy==1.26.4
+transformers==4.45.2
+tokenizers==0.20.3
+huggingface-hub==0.25.2
+peft==0.13.2
+accelerate==0.34.2
+lm_eval==0.4.9.2
+datasets==2.16.1
+pyarrow==19.0.1
+pyarrow-hotfix==0.7
+evaluate==0.4.6
+rouge==1.0.1
+sentencepiece==0.2.1
+safetensors==0.7.0
